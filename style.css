@@ -400,3 +400,13 @@ section
     color: #a5a5a5;
     margin-bottom: 2.5rem;
 }
+
+.foot
+{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    background-color: var(--purple-light);
+    height: 40px;
+    font-family:'Times New Roman';
+}
